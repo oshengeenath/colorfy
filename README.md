@@ -1,4 +1,4 @@
-# 🎨 Colorfy: Deep Learning for Grayscale Image Colorization
+# 🎨 Colorfy: Neural Brushstrokes for Breathing Life into Black White Images
 
 Welcome to **Colorfy**, a research project aimed at enhancing the quality of grayscale image colorization using fine-tuned deep learning models. This project focuses on improving realism and consistency across various grayscale inputs by leveraging custom datasets and training strategies.
 
