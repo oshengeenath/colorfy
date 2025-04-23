@@ -44,7 +44,11 @@ python app.py
 ```
 
 ## 📁 Dataset
-We use the TanVis dataset, a curated set of 5,000 tan-skinned human images collected from diverse internet sources. All images are:
+We use the TanVis dataset, a curated set of 5,000 tan-skinned human images collected from diverse internet sources. 
+
+📥 **[Download the TanVis Dataset](https://drive.google.com/drive/folders/1Bh-cfY_Se4tG1zF7H6SHXzlIGb9avyRA?usp=sharing)**
+
+All images are:
 - 256×256 resolution 
 - Preprocessed and normalized 
 - Manually verified for quality and duplicates
@@ -56,7 +60,8 @@ We evaluate model performance using:
 - SSIM (Structural Similarity Index) 
 - CF (Colorfulness Metric)
 
-
+## 🙏 Acknowledgments
+We thank the authors of [BasicSR](https://github.com/XPixelGroup/BasicSR.git) for the awesome training pipeline.
 
 
 
